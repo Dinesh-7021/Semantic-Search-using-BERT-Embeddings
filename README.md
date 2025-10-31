@@ -1,23 +1,3 @@
-**“Semantic Search using BERT Embeddings – A Modern Alternative to TF-IDF”**
-
-This README will include:
-
-* Overview
-* Problem Statement
-* Features
-* Methodology (TF-IDF vs BERT)
-* Algorithm
-* Results
-* How to Run
-* Requirements
-* Visuals placeholders
-* Author section
-
----
-
-##  README.md — *Semantic Search Using BERT Embeddings*
-
-markdown
 #  Semantic Search Using BERT Embeddings
 *A Modern Alternative to TF-IDF for Information Retrieval*
 
