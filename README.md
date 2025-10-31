@@ -111,7 +111,11 @@ python
 ### **Visual Comparison**
 
 *  *Bar Graph:* BERT gives higher similarity for semantically related texts.
+*  <img width="1041" height="684" alt="image" src="https://github.com/user-attachments/assets/4552c9d3-0efe-478b-b46e-fb0052ea0ac2" />
+
 *  *Line Graph:* BERT’s curve is smoother — showing semantic consistency.
+*  <img width="1196" height="714" alt="image" src="https://github.com/user-attachments/assets/6e5476e7-0baa-4ac0-8246-6f6f3a8bfbc4" />
+
 
 *(Refer to `output_graphs/` folder or notebook visualizations.)*
 
@@ -122,7 +126,7 @@ python
 1. Clone the repository:
 
    bash
-   git clone https://github.com/<your-username>/Semantic-Search-BERT.git
+   git clone https://github.com/<https://github.com/Dinesh-7021>/Semantic-Search-BERT.git
    cd Semantic-Search-BERT
    
 
