@@ -126,7 +126,7 @@ python
 1. Clone the repository:
 
    bash
-   git clone https://github.com/<Dinesh-7021>/Semantic-Search-BERT.git
+   git clone https://github.com/Dinesh-7021/Semantic-Search-BERT.git
 cd Semantic-Search-BERT
 
 
