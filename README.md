@@ -127,8 +127,8 @@ python
 
    bash
    git clone https://github.com/<Dinesh-7021>/Semantic-Search-BERT.git
-   cd Semantic-Search-BERT
-   
+cd Semantic-Search-BERT
+
 
 2. Install dependencies:
 
